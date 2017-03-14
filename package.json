@@ -1,6 +1,6 @@
 {
-  "name": "@ftbl/cache",
-  "version": "1.0.1",
+  "name": "@recipher/cache",
+  "version": "0.0.0",
   "description": "Cache helper",
   "main": "node index",
   "scripts": {
@@ -14,18 +14,18 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/cache.git"
+    "url": "git@github.com:recipher/cache.git"
   },
   "dependencies": {
-    "@ftbl/configuration": "^1.0.1",
-    "@ftbl/redis": "^1.0.2",
+    "@recipher/configuration": "^1.0.1",
+    "@recipher/redis": "^1.0.2",
     "bluebird": "^3.0.0",
     "ioredis": "^1.9.0",
     "lodash": "^4.15.0",
     "stow": "^1.0.1"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.5.0",
+    "@recipher/gulp": "^1.5.0",
     "chai": "^3.4.1",
     "gulp": "^3.9.0",
     "mocha": "^2.3.4",
