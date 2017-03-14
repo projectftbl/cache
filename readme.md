@@ -1,3 +1,3 @@
-## @ftbl/cache
+## @recipher/cache
 
 Cache helper.
